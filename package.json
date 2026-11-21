@@ -1,0 +1,25 @@
+{
+  "name": "tactical-loot-chess",
+  "version": "1.0.0",
+  "description": "Tactical Loot Chess — пошаговая тактика 8x8 для двух игроков в браузере: лут разной редкости, оружие, пиксель-арт. Онлайн-комнаты и LAN.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.3.0",
+    "socket.io": "^4.8.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "game",
+    "multiplayer",
+    "tactics",
+    "socket.io",
+    "pixel-art",
+    "canvas"
+  ]
+}
