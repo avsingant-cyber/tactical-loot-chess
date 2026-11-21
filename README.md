@@ -12,7 +12,7 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/OWNER/tactical-loot-chess.git
+git clone https://github.com/avsingant-cyber/tactical-loot-chess.git
 cd tactical-loot-chess
 npm install
 node server.js
@@ -26,7 +26,7 @@ node server.js
 
 ### Вариант 1: свой бесплатный сервер на Render (для всех и всегда)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/OWNER/tactical-loot-chess)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/avsingant-cyber/tactical-loot-chess)
 
 1. Нажмите кнопку выше и войдите в Render (можно через GitHub).
 2. Нажмите **Apply**. Через пару минут игра будет доступна по адресу вида `https://tactical-loot-chess-xxxx.onrender.com`.
